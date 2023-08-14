@@ -1,1 +1,1 @@
-Projeto vai a ser desenvolvido.
+Projeto a ser desenvolvido.
